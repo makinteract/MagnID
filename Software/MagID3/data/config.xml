@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Configuration>
+
+	<!-- TOKENS -->
+	<Constant id="FFT_SIZE" value="128"/>
+	<Constant id="SAMPLIG_FREQ" value="100"/>
+	<Constant id="FIX_FREQ_TOKEN_TIME_FILTER_WINDOW_MS" value="100"/>
+	<Constant id="LOW_STRENGHT_SIGNAL" value="10"/>
+	<Constant id="HIGH_STRENGHT_SIGNAL" value="30"/>
+	<Constant id="CALIBRATION_TOKEN" value="1"/>
+
+	<!-- NETWORKING -->
+	<Constant id="SERIAL_PORT" value="2"/>
+	<Constant id="BAUD_RATE" value="115200"/>
+	<Constant id="OSC_PORT" value="5204"/>
+	<Constant id="MULTICAST_ADDRESS" value="239.0.0.1"/> 
+	
+	<!-- FILES -->
+	<Constant id="WORKSPACE_DIR" value="Workspace/"/>
+	<Constant id="FILTERS_DIR" value="Filters/"/>
+
+	<!-- FILTERS FILES -->
+	<Filters>
+		<Filter file="5.fcf" frequency="5" />
+	    <Filter file="10.fcf" frequency="10" />
+    	<Filter file="15.fcf" frequency="15" />
+	    <Filter file="20.fcf" frequency="20" />
+	    <Filter file="25.fcf" frequency="25" />
+    	<Filter file="30.fcf" frequency="30" />
+    	<Filter file="35.fcf" frequency="35" />
+	    <Filter file="40.fcf" frequency="40" />
+	</Filters>
+</Configuration>

@@ -1,0 +1,8 @@
+@relation magnetic
+
+@attribute id numeric
+@attribute x numeric
+@attribute y numeric
+@attribute z numeric
+@data
+

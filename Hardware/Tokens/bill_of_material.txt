@@ -1,0 +1,31 @@
+Bill of Material (per MagnID token)
+
+This material was purchased mostly on Korean websites. You can find alternatives or similar products also on other international websites.
+
+
+1 x DC Motor (감속기어모터 6Ø모터 LCP06-A03V-0006)
+http://devicemart.co.kr/goods/view.php?seq=1064545
+
+1 x Switch (IMMS-12H)
+http://devicemart.co.kr/goods/view.php?seq=2648
+
+1 x 100Ω potentiometer (Bourns 3313J Series-100Ω)
+http://devicemart.co.kr/goods/view.php?seq=20523
+
+2 x AAA BATTERIES (LR03-2BP -AAA 1.5V- Be
+http://devicemart.co.kr/goods/view.php?seq=2767
+
+1 x magnet ND 7Ø x 3t (3mm depth) (they are sold 10 at a time)
+http://ksstore.co.kr/front/php/product.php?product_no=20853&main_cate_no=101&display_group=1&cafe_mkt=naver_ks&mkt_in=Y&ghost_mall_id=naver&ref=naver_open&NaPm=ct%3Dhrd5caug%7Cci%3D141a40757d65a6bb210618879f4135acfc5dbcac%7Ctr%3Dslsl%7Csn%3D12634%7Cic%3D%7Chk%3D11c89c5aeabdebb9079b1234823b140812721a11
+
+=> select the item 33번  - 240 won each
+
+
+Other common parts:
+1 x Copper tape (구리테이프 10mmX25m)
+http://devicemart.co.kr/goods/view.php?seq=9505
+
+1 x Double tape (3M double tape found in smart is fine)
+
+1 x Copper board (구리판)
+http://kitall.co.kr/goods/view?no=1855&market=naver&NaPm=ct%3Dhrd4kacw%7Cci%3D3429671d91162d622026c10c3c5cb00c5f6100d7%7Ctr%3Dslsl%7Csn%3D200527%7Chk%3D3d451d424511eb5cf85b09e02c9b9efb62d65b1a
